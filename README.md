@@ -175,6 +175,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[FlyonUI](https://github.com/themeselection/flyonui-mcp)** - Build modern, production-ready UI blocks, components, and landing pages in minutes.
 - **[Fulcra Context](https://github.com/fulcradynamics/fulcra-context-mcp)** - Fulcra Context MCP server for accessing your personal health, workouts, sleep, location, and more, all privately. Built around [Context by Fulcra](https://www.fulcradynamics.com/).
 - **[Gcore Cloud](https://github.com/G-Core/gcore-mcp-server)** - Gcore's Cloud Official MCP Server
+- **[GCF Proxy](https://github.com/blackwell-systems/gcf-proxy)** - Drop-in MCP proxy that re-encodes JSON tool responses as GCF. 71% fewer tokens, 100% comprehension across 1,700+ LLM evaluations. Zero code changes. `npm install -g @blackwell-systems/gcf-proxy`
 - **[GitHub](https://github.com/github/github-mcp-server)** - GitHub's official MCP Server
 - **[Gitee](https://github.com/oschina/mcp-gitee)** - Gitee API integration, repository, issue, and pull request management, and more.
 - **[GitKraken](https://github.com/gitkraken/gk-cli)** - A CLI for interacting with GitKraken APIs. Includes an MCP server via `gk mcp` that not only wraps GitKraken APIs, but also Jira, GitHub, GitLab, and more.
